@@ -9,7 +9,9 @@
   </p>
 </div>
 ## Communication Diagram
-Markup : ![picture alt](https://github.com/w0lt3r/sample.tektonlabs/communication-diagram.png "Title is optional")
+
+![communication diagram](https://user-images.githubusercontent.com/71280710/155912341-2604e0e1-95da-443f-a863-120cec81746c.png)
+
 ## Project Layers
 
 The project contains three layers. Here
