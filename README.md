@@ -1,7 +1,7 @@
 
 <!-- PROJECT LOGO -->
 </br>
-  <h3 align="center">TektonLabs assessment</h3>
+  <h1 align="center">TektonLabs assessment</h1>
 
   <p align="center">
     ...
